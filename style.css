@@ -1,0 +1,11 @@
+.card{
+    border-radius: 20px;
+}
+
+.menu li{
+    padding: 10px;
+}
+
+.menu-list{
+    transform: rotate(90deg);
+}
